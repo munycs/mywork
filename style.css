@@ -194,7 +194,7 @@ ul {
     }
     .football, .education{
         display: grid;
-        background-color: rgb(28, 40, 179);
+        background-color: rgb(182, 187, 246);
     }
     .football img{
         align-items: center;
@@ -261,7 +261,7 @@ ul {
     }
     .football, .education{
         display: grid;
-        background-color: rgb(28, 40, 179);
+        background-color: rgb(182, 187, 246);
     }
     .football img{
         align-items: center;
